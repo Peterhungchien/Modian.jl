@@ -1,3 +1,3 @@
-# Modian
+# Modian.jl
 
-[![Build Status](https://github.com/Peterhungchien/Modian.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/Peterhungchien/Modian.jl/actions/workflows/CI.yml?query=branch%3Amaster)
+This is a module for scraping data from modian.com.

@@ -3,6 +3,9 @@ uuid = "cf4541c9-8063-448e-bf2e-d42e821f1d69"
 authors = ["hungchienpeter"]
 version = "1.0.0-DEV"
 
+[deps]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+
 [compat]
 julia = "1"
 
